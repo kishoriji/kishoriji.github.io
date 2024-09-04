@@ -1,0 +1,6 @@
+# Allow all web crawlers to access all content
+User-agent: *
+Disallow:
+
+# location of the sitemap
+Sitemap: https://kishoriji.github.io/sitemap.xml
